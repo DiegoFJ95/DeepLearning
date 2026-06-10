@@ -342,6 +342,52 @@ for epoch in range(RESUME_FROM, EPOCHS):
 
 La pérdida disminuyó consistentemente a lo largo de los 18 epochs completados, sin señales de divergencia. El modelo se encuentra en estado de **underfitting moderado**: la curva de aprendizaje aún muestra capacidad de mejora con más epochs o más datos.
 
+### Ejemplo de output:
+
+```
+Welcome to the ChatBot!
+Type "exit" to exit.
+
+You:  hello
+
+Bot: any a bit start obviously
+________________________________________________________________________________
+
+You:  um, whats your name?
+
+Bot: Computers are like they are.
+________________________________________________________________________________
+
+You:  Oh how nice, do you like pizza?
+
+Bot: Sure!
+________________________________________________________________________________
+
+You:  What is your favorite number?
+
+Bot: It's a sci-fi book about different kinds of years. I'll see if they uh had a two Indian.
+________________________________________________________________________________
+
+You:  How old are you?
+
+Bot: the point is to save his life, Butters. You're staying the video.
+________________________________________________________________________________
+
+You:  What happened to Cartman?
+
+Bot: Everything is so bad, crap.
+________________________________________________________________________________
+
+You:  indeed
+
+Bot: Hi
+________________________________________________________________________________
+
+You:  good bbye bot
+
+Bot: Let's go out and find the train, baby.
+```
+
 ### Comparación de Arquitecturas Exploradas
 
 | Método | Vocab Size | Embedding | Timesteps | Tiempo/Epoch | Coherencia |
