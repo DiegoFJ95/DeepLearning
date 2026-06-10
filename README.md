@@ -279,11 +279,7 @@ Welcome to the ChatBot!
 Type "exit" to exit.
 
 You: How are you doing today?
-Bot: I'm doing well, thank you for asking.
-You: What are your interests?
-Bot: I am interested in all kinds of things. We can talk about anything!
-You: exit
-```
+Bot: [response]
 
 ---
 
